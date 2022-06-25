@@ -1,4 +1,8 @@
-# Single seriver infinite capacity - Markovian Model
+### EX.NO : 07
+
+### DATE : 
+
+# <p align="center">Single seriver infinite capacity - Markovian Model  </p>
 
 # Aim : 
 To find 
@@ -48,6 +52,7 @@ result in an increase in the idle time of the service mechanism.
 ![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
 
 # Program
+
 
 ![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
 
